@@ -7,16 +7,16 @@
 
 - 📍 Location: Grand Rapids, Michigan
 - 🎓 Education: Eastern Michigan University
-- 📅 Hacking Since: 2020
+- 📅 Hacking and Coding Since: 2020
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
+- 🎲 LibraryManagementSystem — A user-interactive back-end program that simulates a library managing system. (C#) — https://github.com/Fazce/My-C-Projects
 - 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
 - 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
+- 🧰 Languages: C#, Java, HTML, CSS, JavaScript, Lua
+- 🔭 Focus: Software Engineering, Data Science/Engineer, Game Design/Game Development
 - ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
 -->
 
