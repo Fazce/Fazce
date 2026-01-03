@@ -12,7 +12,7 @@
 ## Featured Projects
 - 🎲 LibraryManagementSystem — A user-interactive back-end program that simulates a library managing system. (C#) — https://github.com/Fazce/My-C-Projects
 - 🛠️ StringSearchAlgorithm — A Java program comparing four different search algorithms to test and compare their efficiency. (Java) — https://github.com/Fazce/StringSearchAlgorithms
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🤖 UserManagementAPI — [Brief, one-sentence description of the project.] (C# .NET) — https://github.com/Fazce/UserManagementAPI
 
 ## Tech & Interests
 - 🧰 Languages: C#, Java, HTML, CSS, JavaScript, Lua
