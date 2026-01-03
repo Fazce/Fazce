@@ -16,8 +16,8 @@
 
 ## Tech & Interests
 - 🧰 Languages: C#, Java, HTML, CSS, JavaScript, Lua
-- 🔭 Focus: Software Engineering, Data Science/Engineer, Game Design/Game Development
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🔭 Focus: Software Engineering, Full-Stack Development, Game Design/Game Development
+- ❤️ Interests: Artificial Intelligence/Machine Learning, Data Science, Unreal Engine
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
