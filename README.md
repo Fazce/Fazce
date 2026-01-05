@@ -6,7 +6,7 @@
 - 📅 Hacking and Coding Since: 2020
 
 ## Featured Projects
-- 🎲 LibraryManagementSystem — A user-interactive back-end program that simulates a library managing system. (C#) — https://github.com/Fazce/My-C-Projects
+- 🎲 Technical Lifeline — A user-interactive web application mocking an FAQ page addressing common programming errors encountered by beginner programmers. (HTML, CSS, JavaScript) — https://github.com/Fazce/TechnicalLifeline
 - 🛠️ StringSearchAlgorithm — A Java program comparing four different search algorithms to test and compare their efficiency. (Java) — https://github.com/Fazce/StringSearchAlgorithms
 - 🤖 UserManagementAPI — A mock .NET program meant to replicate a management API system, with middleware and endpoints. (C#) — https://github.com/Fazce/UserManagementAPI
 
