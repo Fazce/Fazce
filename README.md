@@ -1,7 +1,7 @@
 ## About
-👋 Hello, I'm Daniel Nguyen, a programmer currently living in Grand Rapids, Michigan. I'm currently a Student at Eastern Michigan University who is majoring in Computer Science with a minor in Simulation, Animation, and Gaming. My future aspirations are to work as a Full-Stack Developer or Video Game Designer/Developer to create software or hardware that can help and entertain people in their daily lives!
+👋 Hello, I'm Daniel Nguyen, a programmer currently living in Kentwood, Michigan. I'm currently a Student at Eastern Michigan University who is majoring in Computer Science with a minor in Simulation, Animation, and Gaming. My future aspirations are to work as a Full-Stack Developer or Video Game Designer/Developer to create software or hardware that can help and entertain people in their daily lives!
 
-- 📍 Location: Grand Rapids, Michigan
+- 📍 Location: Kentwood, Michigan
 - 🎓 Education: Eastern Michigan University
 - 📅 Hacking and Coding Since: 2020
 
