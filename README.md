@@ -11,7 +11,7 @@
 - 🤖 UserManagementAPI — A mock .NET program meant to replicate a management API system, with middleware and endpoints. (C#) — https://github.com/Fazce/UserManagementAPI
 
 ## Tech & Interests
-- 🧰 Languages: C#, Java, HTML, CSS, JavaScript, Lua
+- 🧰 Languages: C, C++, C#, Java, Python, Swift, HTML, CSS, JavaScript, Lua
 - 🔭 Focus: Software Engineering, Full-Stack Development, Game Design/Game Development
 - ❤️ Interests: Artificial Intelligence/Machine Learning, Data Science, Unreal Engine
 
